@@ -1,13 +1,5 @@
-# hello-world
-Hello World repository for Git tutorial
-This is an example repository for the Git tutoial on https://www.w3schools.com
-
-This repository is built step by step in the tutorial.
-
-adding changes to test
-another change to test part 2
-
-another change to test push branch to github
-change 11/1/2025
-change again
-change again
+# Hello-World Merged and resolved!
+edit 444pm
+edit from github danshsu 447pm  
+edit from github danshsu 521pm  
+>>>>>>> 6199021299f4483b8cdcb92581b2a226d0e5eb22
